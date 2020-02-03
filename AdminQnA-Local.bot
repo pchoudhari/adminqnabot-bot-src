@@ -1,0 +1,18 @@
+{
+    "name": "AdminQnA-Local",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "adc8a0c6-cad4-4fe9-a7df-b8398158ede8",
+            "appPassword": "+v*)L[&X@w@Xse#)|ktcXG86AIN",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "d1801870-465c-11ea-ab0b-e9116a6ce02e",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\adminqnabot-bot-src\\AdminQnA-Local.bot"
+}

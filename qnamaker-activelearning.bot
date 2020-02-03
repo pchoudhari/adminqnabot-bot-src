@@ -1,0 +1,27 @@
+﻿{
+  "name": "qnamaker-activelearning",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "https://adminqnabotservice.azurewebsites.net/api/messages",
+      "appId": "adc8a0c6-cad4-4fe9-a7df-b8398158ede8",
+      "appPassword": "+v*)L[&X@w@Xse#)|ktcXG86AIN",
+      "id": "1"
+    },
+    {
+      "type": "qna",
+      "EndpointKey": "693aa6bc-ab66-4953-af87-f7e82378404d",
+      "Hostname": "https://adminqnabot.azurewebsites.net/",
+      "KbId": "dacc506d-0fdd-487c-bb74-4b5c33c32857",
+      //"EndpointKey": "ad1ad2e8-856b-4434-9b6b-d807800154a5",
+      //"Hostname": "https://pc-qna.azurewebsites.net/",
+      //"KbId": "6a4214ff-9d9f-4675-83b2-775a645cca51",
+      "SubscriptionKey": "",
+      "id": "118",
+      "name": "QnAMakerActiveLearning"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
